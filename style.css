@@ -1,0 +1,1050 @@
+
+/*========= section1 body part1 start =======*/
+
+a{
+  text-decoration: none;
+}
+body{
+  height: 200px;
+}
+.full-wraper{
+  color: #0c0116;
+  width: 100%;
+}
+.wraper{
+	width: 100%;
+  height: 350px;
+	margin: 0 auto;
+  background-color: #00ffbf;
+}
+.logo img{
+  width: 100px;
+  padding: 5px;
+  float: left;
+}
+
+
+/*========= menu part1 start =======*/
+
+.menu{  
+	width: 800px;
+	text-align: right;
+	margin-top: 25px;
+  display: inline-block;
+}
+.menu a{
+  color: hsl(0, 78%, 2%);
+	padding: 10px;
+	font-size: 24px;
+  text-align: end;
+  text-decoration: none;
+  font-family:  bold;
+  text-shadow: 1px 1px rgb(172, 7, 158);
+}
+.menu a:hover{
+  color: hsl(0, 83%, 50%);
+  background: transparent;
+  background-color: #090114;
+  transition: .1s;
+  border: 2px solid;
+}
+
+/*========= hadding part1 start =======*/
+
+
+
+.hadding{
+  background-color: #52e4bf;
+  border-radius: 80px;
+}
+.hadding h3{
+  text-align: center;
+  padding: 41px; 
+  font-size: 20px; 
+}
+.hadding button{
+  margin-top: 10px;
+  margin-bottom: 80px;
+  width: 180px;
+  height: 40px;
+  font-size: medium;
+  margin-left: 40%;
+  border-radius: 10px;
+  border: 5px double;
+  color: #01010c;
+  background-color:  #d40707 ;
+  transition: .1s;
+}
+.hadding button:hover{
+  background: transparent;
+  background-color: hsl(107, 100%, 3%);
+  color: aliceblue;
+}
+
+/*========= section1 body part1 end =======*/
+
+
+/*========= section2 part2 start =======*/
+
+.part1{
+  float: left;
+  background-color: #1f618d  ;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part1 h1{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(5, 194, 14);
+}
+.part1 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 107, 124);
+  width: 70px;
+  margin-left: 46%;
+  margin-top: 8px;
+}
+.part1 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-size: small;
+}
+
+
+/*========= branding part2 start =======*/
+
+.brand{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.brand img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:30% ;
+}
+.brand h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(243, 230, 230);
+}
+
+
+/*========= design part2 start =======*/
+
+
+.design{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.design img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:30% ;
+}
+.design h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(245, 211, 213);
+}
+.design p{
+  text-decoration: none;
+  font-size: small;
+}
+
+
+/*========= development part2 start =======*/
+
+
+
+.Development{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.Development img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:30% ;
+}
+.Development h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(235, 215, 216);
+}
+.Development p{
+  text-decoration: none;
+  font-size: small;
+}
+
+
+
+/*========= rocket part2 start =======*/
+
+.rocket{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.rocket img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:30% ;
+}
+.rocket h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(224, 222, 230);
+}
+.rocket p{
+  text-decoration: none;
+  font-size: small;
+}
+
+
+/*========= section2 part2 end =======*/
+
+/*========= section3 part3 start =======*/
+
+
+.part2{
+  float: left;
+  background-color:#e74c3c ;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part2 h1{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(238, 6, 180);
+}
+.part2 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 107, 124);
+  width: 70px;
+  margin-left: 46%;
+  margin-top: 8px;
+}
+.part2 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+
+/*========= team part3 start =======*/
+
+.team1{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.team2 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.team3 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 6, 6);
+}
+
+
+/*========= team1 part3 start =======*/
+
+
+.team1{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.team1 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.team1 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 6, 6);
+ 
+}
+.team1 p{
+  text-decoration: none;
+  font-size: small;
+}
+.one{
+  color: #2b0670;
+  font-style: italic;
+}
+
+
+/*========= team2 part3 star =======*/
+
+
+.team2{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.team2 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.team2 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 6, 6);
+}
+.team2 p{
+  text-decoration: none;
+  font-size: small;
+}
+.one{
+  color: #2b0670;
+  font-style: italic;
+}
+
+
+
+/*========= team3 part3 start =======*/
+
+
+.team3{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.team3 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.team3 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 6, 6);
+}
+.team3 p{
+  text-decoration: none;
+  font-size: small;
+}
+.one{
+  color: #2b0670;
+  font-style: italic;
+}
+
+
+/*========= team4 part3 start =======*/
+
+
+.team4{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.team4 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.team4 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 6, 6);
+}
+.team4 p{
+  text-decoration: none;
+  font-size: small;
+}
+.one{
+  color: #0fd819;
+  font-style: italic;
+}
+
+
+/*========= team4 part3 end =======*/
+
+
+/*========= section4 part4 start =======*/
+
+
+.part3{
+  float: left;
+  background-color:green ;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part3 h1{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(218, 7, 94);
+}
+.part3 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 107, 124);
+  width: 60px;
+  margin-left: 46%;
+  margin-top: 8px;
+}
+.part4 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+
+
+/*========= point1 part4 start =======*/
+
+
+.point1{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.point1 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+}
+.point1  h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(228, 222, 222);
+}
+
+
+/*========= point2 part4 start =======*/
+
+
+.point2{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.point2 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+}
+.point2 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(243, 238, 238);
+}
+
+
+
+/*========= point3 part4 start =======*/
+
+
+.point3{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.point3 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+}
+.point3 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(236, 231, 231);
+}
+
+
+
+/*========= point4 part4 start =======*/
+
+
+.point4{
+  width: 22.4%;
+  float: left;
+  padding: 10px;
+}
+.point4 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+}
+.point4 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(238, 232, 232);
+}
+
+/*========= point4 part4 end =======*/
+
+
+/*========= section5 part5 start =======*/
+
+
+.part4{
+  float: left;
+  background-color:  #800000 ;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part4 h1{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(231, 209, 10);
+}
+.part4 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 107, 124);
+  width: 60px;
+  margin-left: 46%;
+  margin-top: 8px;
+}
+.part4 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+
+/*========= menu2 part5 start =======*/
+
+.menu2{  
+	width: 850px;
+	text-align: center;
+	margin-top: 20px;
+  display: inline-block;
+}
+.menu2 a{
+  color: hsl(270, 8%, 95%);
+	padding: 20px;
+	font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  font-family:  sans-serif;
+  text-shadow: 2px 2px rgb(223, 7, 151);
+}
+.menu2 a:hover{
+  color: hsl(0, 83%, 50%);
+  background: transparent;
+  background-color: #090114;
+  transition: .1s;
+  border: 2px solid;
+}
+
+
+/*========= button  part5 start =======*/
+
+
+.button button{
+  margin-top: 50px;
+  text-align: center;
+  width: 180px;
+  height: 40px;
+  font-size: medium;
+  margin-left: 36%;
+  border-radius: 50px;
+  border: 7px double;
+  color: #01010c;
+  background-color:  #b930e4;
+  transition: .1s;
+}
+.button button:hover{
+  background: transparent;
+  background-color: hsl(107, 100%, 3%);
+  color: aliceblue;
+}
+.all{
+  margin-top: 40px;
+}
+
+/*========= tv1 part5 start =======*/
+
+
+.tv1{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.tv1 img{
+  width: 270px;
+  height: 180px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tv1 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(233, 229, 229);
+}
+
+
+/*========= tv2 part5 start =======*/
+
+.tv2{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.tv2 img{
+  width: 270px;
+  height: 180px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tv2 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(247, 242, 245);
+}
+
+
+/*========= tv3 part5 start =======*/
+
+.tv3{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.tv3 img{
+  width: 270px;
+  height: 180px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tv3 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(248, 244, 247);
+}
+
+
+/*========= tv4 part5 start =======*/
+
+
+.tv4{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.tv4 img{
+  width: 270px;
+  height: 180px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tv4 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(226, 225, 235);
+}
+
+
+/*========= section5 part5 end =======*/
+
+
+
+/*========= section6 part6 start =======*/
+
+
+
+.part6{
+  float: left;
+  background-color:  #e43072;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part6 h1{
+  text-align: center;
+  padding-bottom: 20px; 
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(118, 94, 224);
+  
+}
+.part6 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 107, 124);
+  width: 50px;
+  margin-left: 46%;
+  margin-top: 8px;
+  
+}
+.part6 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+
+/*========= love1 part6 start =======*/
+
+
+.love1{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.love1 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 200px;
+  float: left;
+
+}
+.love1 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px rgb(240, 4, 4);
+}
+.love1 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-style: italic;
+  padding-left: 170px;
+  line-height: 0.9;
+  border: 2px ;
+  margin-top: 33px;
+
+}
+
+.on p{
+  margin-top:-10px;
+}
+
+
+
+/*========= love2 part6 start =======*/
+
+
+.love2{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.love2 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 200px;
+  float: left;
+}
+.love2 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px red;
+}
+.love2 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-style: italic;
+  padding-left: 170px;
+  line-height: 0.9;
+  border: 2px ;
+  margin-top: 33px;
+}
+
+.on p{
+  margin-top:-10px;
+}
+
+
+
+/*========= love3 part6 start =======*/
+
+
+.love3{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.love3 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 200px;
+  float: left;
+}
+.love3 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px red;
+}
+.love3 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-style: italic;
+  padding-left: 170px;
+  line-height: 0.9;
+  border: 2px ;
+  margin-top: 33px;
+}
+
+.on p{
+  margin-top:-10px;
+}
+
+
+
+
+/*========= love4 part6 start =======*/
+
+
+.love4{
+  width: 45.8%;
+  float: left;
+  padding: 10px;
+}
+.love4 img{
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 200px;
+  float: left;
+}
+.love4 h2{
+  text-align: center;
+  padding: 0px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px red;
+}
+.love4 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  font-style: italic;
+  padding-left: 170px;
+  line-height: 0.9;
+  border: 2px ;
+  margin-top: 33px;
+  
+}
+.on p{
+  margin-top:-10px;
+}
+
+
+/*========= love1 part6 end =======*/
+
+
+
+/*========= section7 part7 start =======*/
+
+
+.part7{
+  float: left;
+  background-color: #9b02a0;
+  padding: 40px;
+  margin: auto;
+  width: 91.6%;
+}
+.part7 h1{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px rgb(221, 8, 8);
+}
+.part7 h1:after{
+  content: "";
+  display: block;
+  border: 2px solid rgb(90, 124, 122);
+  width: 40px;
+  margin-left: 47%;
+}
+.part7 p{
+  text-align: center;
+  font-size: 17px;
+  font-family: sans-serif;
+  margin-bottom: 60px;
+}
+
+
+/*========= table part7 start =======*/
+
+
+.table input{
+  background-color: #a8a8a8;
+  font-size: 20px;
+  color: #020201;
+  margin-left: 145px;
+  margin-bottom: 15px;
+  margin-top: 7px;
+  border: 3px;
+  margin-right: -131px;
+  width: 289px;
+  height: 30px;
+  
+}
+
+
+.table textarea{
+  width: 600px;
+  height: 150px;
+  background-color: rgba(179, 171, 171, 0.979);
+  font-size: 15px;
+  margin-left: 145px;
+  text-transform: capitalize;
+  color: #010701;
+}
+
+
+.table button{
+  width: 170px;
+  height: 40px;
+  font-size: medium;
+  background-color: #1ddbb6;
+  color: #010701;
+  border: 3px solid;
+  margin-top: 50px;
+  margin-left: 360px;
+  text-shadow: 1px 1px 3px red;
+}
+.table button:hover{
+  background-color: #01010c;
+  color: #ffffff;
+  transition: 1s;
+  transform: rotate(360deg);
+}
+
+
+
+/*========= section7 part7 end =======*/
+
+
+
+/*========= section8 part8 start =======*/
+
+.part8{
+  background-color: #dd26c5;
+}
+.part8 a{
+  color: #080707;
+  font-size: 22px;
+  margin-left: 53px;
+  text-shadow: 1px 1px 3px red;
+}
+
+
+/*========= section8 part8 end =======*/
+
+
+
+
+/*========= section part completed =======*/
